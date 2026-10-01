@@ -44,12 +44,13 @@ Data Analyst, work with SQL, Power BI, DAX, Advanced Excel, Python, Amazon Quick
 ---
 ## 🚀 Projects
 
-### 🤖 AI IT Support Automation & Analytics
-**Tech:** Python · FastAPI · Google Sheets · REST API · Ollama · Llama 3.2
+### Company Layoffs Analysis Dashboard
+**Tech:** Python · Power Bi . Power Query . Dax . Sql
 
-- **Situation:** IT support involved repetitive, manual issue triage and device lookups.
-- **Action:** Built an internal AI-powered support system with serial-number-based asset lookup from Google Sheets, Python data normalization, and Llama 3.2 (via Ollama) to analyze Windows issues and generate structured troubleshooting guidance.
-- **Result:** Automated initial issue analysis, removed dependence on paid AI APIs through local inference, and created a structured support dataset (issue category, AI confidence, resolution and escalation status) for future trend analysis.
+- **Situation:** Analysed global tech industry layoff data from 2020–2023, covering 1,885+ companies across 60 countries, to understand workforce reduction trends.
+- **Task:** Identify layoff patterns and compare workforce reductions across industries, funding stages, companies, countries, and years.
+- **Action:** Cleaned and transformed the data using Power Query, developed a star-schema data model, created DAX measures, and built an interactive Power BI dashboard with slicers and date filters.
+- **Result:** Identified Retail, Transportation, and Real Estate among the industries with substantial layoffs, analysed year-over-year trends from 2020–2023, and highlighted companies with the highest reported layoffs and funding-stage patterns.
 
 ### 📊 Ecommerce Sales Analysis Dashboard
 **Tech:** Python . SQL · Power BI · DAX 
@@ -64,14 +65,6 @@ Data Analyst, work with SQL, Power BI, DAX, Advanced Excel, Python, Amazon Quick
 - **Situation:** Needed to understand why customers leave and which segments are at risk.
 - **Action:** Performed exploratory data analysis and customer segmentation, and built Power BI dashboards for churn trends and retention metrics.
 - **Result:** Identified churn and retention patterns and generated actionable customer insights.
-
-### ✈️ Aircraft Maintenance & Failure Analysis Dashboard
-**Tech:** SQL · Python · Power BI
-
-- **Situation:** Limited visibility into maintenance reliability across 100,000+ maintenance records.
-- **Action:** Cleaned, validated, and explored the data, then built Power BI dashboards tracking MTBF, MTTR, and maintenance trends.
-- **Result:** Identified recurring failure patterns and maintenance bottlenecks.
-
 ---
 
 ## 🎓 Education
