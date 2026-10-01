@@ -81,5 +81,5 @@ English · Telugu · Hindi · Kannada
 
 ## 📫 Let's Connect
 
-I'm open to **Data Analyst**, **Reporting Analyst**, and **Power BI** roles. Reach me on [LinkedIn](https://www.linkedin.com/in/veligandlaharinath) or at [veligandlaharinath470@gmail.com](mailto:veligandlaharinath470@gmail.com).
+I'm open to **Data Analyst**, **Business Analyst**, **Mis Analyst**, **Reporting Analyst**, and **Power BI** roles. Reach me on [LinkedIn](https://www.linkedin.com/in/veligandlaharinath) or at [veligandlaharinath470@gmail.com](mailto:veligandlaharinath470@gmail.com).
 
