@@ -51,15 +51,15 @@ Data Analyst, work with SQL, Power BI, DAX, Advanced Excel, Python, Amazon Quick
 - **Action:** Built an internal AI-powered support system with serial-number-based asset lookup from Google Sheets, Python data normalization, and Llama 3.2 (via Ollama) to analyze Windows issues and generate structured troubleshooting guidance.
 - **Result:** Automated initial issue analysis, removed dependence on paid AI APIs through local inference, and created a structured support dataset (issue category, AI confidence, resolution and escalation status) for future trend analysis.
 
-### 📊 Sales Performance Analysis Dashboard
-**Tech:** SQL · Power BI · DAX · Excel
-
-- **Situation:** Limited visibility into sales performance.
-- **Action:** Transformed sales data using SQL and Excel, then built an interactive Power BI dashboard with DAX measures for conversion rate, retention, and revenue growth.
-- **Result:** Improved visibility into revenue, customer acquisition, regional performance, and sales trends.
+### 📊 Ecommerce Sales Analysis Dashboard
+**Tech:** Python . SQL · Power BI · DAX 
+- **Situation:** Analysed 10,194 retail sales records from the Superstore dataset to understand sales, profit, discount, and product performance.
+- **Task:** Identify key business trends and performance gaps across categories, regions, segments, products, and customers.
+- **Action:** Cleaned and prepared the data using Python (Pandas, NumPy), analysed business questions using MySQL, and built an interactive Power BI dashboard with DAX measures, slicers, and monthly trend analysis.
+- **Result:** Identified $2.33M in sales, $292K in profit, and 39K units sold, with Technology leading in sales and profit and Furniture showing relatively lower profitability despite strong sales.
 
 ### 🔄 Customer Churn Analysis
-**Tech:** Python · SQL · Power BI
+**Tech:** Power BI· SQL · Power Query . DAX
 
 - **Situation:** Needed to understand why customers leave and which segments are at risk.
 - **Action:** Performed exploratory data analysis and customer segmentation, and built Power BI dashboards for churn trends and retention metrics.
@@ -88,5 +88,5 @@ English · Telugu · Hindi · Kannada
 
 ## 📫 Let's Connect
 
-I'm open to **Data Analyst**, **Reporting Analyst**, and **Power BI** roles. Reach me on [LinkedIn](https://linkedin.com/in/ajaytripurani) or at [veligandlaharinath470@gmail.com](mailto:veligandlaharinath470@gmail.com).
+I'm open to **Data Analyst**, **Reporting Analyst**, and **Power BI** roles. Reach me on [LinkedIn](https://www.linkedin.com/in/veligandlaharinath) or at [veligandlaharinath470@gmail.com](mailto:veligandlaharinath470@gmail.com).
 
